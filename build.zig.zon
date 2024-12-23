@@ -4,8 +4,8 @@
     .minimum_zig_version = "0.14.0-dev.1495+f29bdd674",
     .dependencies = .{
         .glslang = .{
-            .url = "https://github.com/Games-by-Mason/glslang-zig/archive/5f7826e610a1724e9056e84323c0ce775308311b.tar.gz",
-            .hash = "1220d9e5f80f204e09f55f64fdf398be0148c12eb872d05bc87ffc1cc68ce520f7f5",
+            .url = "https://github.com/andrewrk/glslang-zig/archive/2af26584c7d87b6cce40c6ac1a8c6c17aa040da1.tar.gz",
+            .hash = "122087eee45ec8fb0d048e93d66f148db681b5eea26d20be0c2c67f307a95be25dfa",
         },
         .structopt = .{
             .url = "https://github.com/Games-by-Mason/structopt/archive/5bc9d351de473812a7b0c65f2f2072341107793f.zip",
